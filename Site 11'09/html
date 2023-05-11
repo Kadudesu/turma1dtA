@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senai - 1DT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="IMG/logo-senai1.png">
+</head>
+<body>
+    <header id="header">
+        <h1 class="title txt">Python: <br> Estruturas de Repetição</h1>
+    </header>
+    <div id="corpo">
+        <div id="div1">  
+            <ul class="txt">
+                <h1 class="h1">ESTRUTRAS DE REPETIÇÃO</h1>
+            <p class="p">Também conhecido como: <br> </p>
+                <li>Loop/Looping</li> <br> <br> <br>
+            <p>No Python há duas possibilidades de executar loops primitivos: <br> <br> </p>    
+                <li>For Loops</li> <br>
+                <li>While Loops</li><br> 
+            
+                <h1 class="h1">INDENTAÇÃO</h1>
+                <p class="p">O guia de estilo Python recomenda o uso de espaços por nível de endentação.
+                A tabulação somente deve ser usada para permanecer consistente com o código
+                que já estiver endentado com tabulações. <br> <br></p>
+                <h1 class="h1">LOOP WHILE</h1>
+                <p class="p">
+                O processo inicia quando um laço while é encontrado durante a execução de um programa.
+                A condição é avaliada para ver se ela é a verdadeira (True) ou falsa (False). <br>
+                Se a condição for True, as instruções que pertencem ao laço serão executadas. <br>
+                A condição laço While é verificada novamente.
+                Se a condição for True novamente, a sequência de instruções é executada novamente e o processo se repete. <br>
+                Quando a condição for False, o laço é interrompido (Loop Stops) e o programa continua para além do laço <br>   
+                </p>
+                <h1 class="h1">LOOP FOR</h1>
+                <p class="p">
+                Um loop for é usado para iterar sobre uma sequência. <br> <br>
+                Isso é menos parecido com a palavra-chave for em outras linguagens de programação e funciona mais
+                como um método iterador encontrado em outra linguagens de programação orientada a objeto. <br><br>
+                Com o Loop podemos executar um conjunto de intruções, uma vez para cada item em uma lista.  
+                </p>
+            </ul>
+        </div>
+        <div id="div2">
+            <img src="IMG/MicrosoftTeams-image.png" alt="">
+        </div>
+    </div>
+</body>
+</html>
